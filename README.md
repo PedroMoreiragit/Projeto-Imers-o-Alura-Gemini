@@ -15,4 +15,4 @@ Este projeto web é um diretório de atletas brasileiros. Ele permite que os usu
 ## Como usar
 1. **Clone o repositório:**
    ```bash
-   git clone https://seu-repositorio.git
+   git clone [https://seu-repositorio.git](https://github.com/PedroMoreiragit/Projeto-Imers-o-Alura-Gemini)
